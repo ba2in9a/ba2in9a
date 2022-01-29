@@ -9,7 +9,7 @@
 
 
 
-[<img align="left" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba2in9a&hide_border=true&theme=vue">](#)
+[<img align="left" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba2in9a&title=false&hide_border=true&theme=vue">](#)
 
 
 
