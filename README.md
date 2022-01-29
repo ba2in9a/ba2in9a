@@ -4,14 +4,16 @@
 [<img align="left" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api?username=ba2in9a&show_icons=true&theme=vue">](#)
 
 
-[<img align="left" width="395" alt="🤿" src="https://activity-graph.herokuapp.com/graph?username=ba2in9a&theme=github-light">](#)
-
 
 [<img align="left" width="395" alt="🤿" src="http://github-readme-streak-stats.herokuapp.com?user=ba2in9a&theme=vue">](#)
 
 
 
-[<img align="left" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba2in9a&theme=vue">](#)
+[<img align="left" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba2in9a&layout=compact&theme=vue">](#)
+
+
+
+[<img align="left" width="395" alt="🤿" src="https://activity-graph.herokuapp.com/graph?username=ba2in9a&theme=github-light">](#)
 
 
 
