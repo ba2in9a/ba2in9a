@@ -1,9 +1,12 @@
+### Hi,I'm [ba2in9a](https://ba2in9a.top)
 
-![ba2in9a](https://github-readme-stats.vercel.app/api?username=ba2in9a&show_icons=true&theme=vue)
+![bazinga](https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201291545963.gif)
 
-![ba2in9a](http://github-readme-streak-stats.herokuapp.com?user=ba2in9a&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=ba2in9a&show_icons=true&theme=vue)
 
-[![ba2in9a](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-readme-streak-stats.herokuapp.com?user=ba2in9a&theme=vue)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ba2in9a/ba2in9a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
