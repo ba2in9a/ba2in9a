@@ -1,84 +1,10 @@
-### Hi,I'm [ba2in9a](https://ba2in9a.top)
+[<img align="left" width="390" alt="🤿" src="https://metrics.lecoq.io/ba2in9a?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&followup=1&isocalendar.duration=half-year&languages.limit=15&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai">](#)
 
-<script>
-function run() {
-  const url = setUpQuery();
-  fetch(url)
-    .then(response => response.json())
-    .then(json => {
-      // See https://developers.google.com/speed/docs/insights/v5/reference/pagespeedapi/runpagespeed#response
-      // to learn more about each of the properties in the response object.
-      showInitialContent(json.id);
-      const cruxMetrics = {
-        "First Contentful Paint": json.loadingExperience.metrics.FIRST_CONTENTFUL_PAINT_MS.category,
-        "First Input Delay": json.loadingExperience.metrics.FIRST_INPUT_DELAY_MS.category
-      };
-      showCruxContent(cruxMetrics);
-      const lighthouse = json.lighthouseResult;
-      const lighthouseMetrics = {
-        'First Contentful Paint': lighthouse.audits['first-contentful-paint'].displayValue,
-        'Speed Index': lighthouse.audits['speed-index'].displayValue,
-        'Time To Interactive': lighthouse.audits['interactive'].displayValue,
-        'First Meaningful Paint': lighthouse.audits['first-meaningful-paint'].displayValue,
-        'First CPU Idle': lighthouse.audits['first-cpu-idle'].displayValue,
-        'Estimated Input Latency': lighthouse.audits['estimated-input-latency'].displayValue
-      };
-      showLighthouseContent(lighthouseMetrics);
-    });
-}
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ba2in9a&show_icons=true&theme=vue" alt="Metrics" width="400">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ba2in9a&theme=vue" alt="Metrics" width="400">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
-function setUpQuery() {
-  const api = 'https://www.googleapis.com/pagespeedonline/v5/runPagespeed';
-  const parameters = {
-    url: encodeURIComponent('https://github.com/ba2in9a')
-  };
-  let query = `${api}?`;
-  for (key in parameters) {
-    query += `${key}=${parameters[key]}`;
-  }
-  return query;
-}
-
-function showInitialContent(id) {
-  document.body.innerHTML = '';
-  const title = document.createElement('h1');
-  title.textContent = 'PageSpeed Insights API Demo';
-  document.body.appendChild(title);
-  const page = document.createElement('p');
-  page.textContent = `Page tested: ${id}`;
-  document.body.appendChild(page);
-}
-
-function showCruxContent(cruxMetrics) {
-  const cruxHeader = document.createElement('h2');
-  cruxHeader.textContent = "Chrome User Experience Report Results";
-  document.body.appendChild(cruxHeader);
-  for (key in cruxMetrics) {
-    const p = document.createElement('p');
-    p.textContent = `${key}: ${cruxMetrics[key]}`;
-    document.body.appendChild(p);
-  }
-}
-
-function showLighthouseContent(lighthouseMetrics) {
-  const lighthouseHeader = document.createElement('h2');
-  lighthouseHeader.textContent = "Lighthouse Results";
-  document.body.appendChild(lighthouseHeader);
-  for (key in lighthouseMetrics) {
-    const p = document.createElement('p');
-    p.textContent = `${key}: ${lighthouseMetrics[key]}`;
-    document.body.appendChild(p);
-  }
-}
-
-run();
-</script>
-
-![](https://github-readme-stats.vercel.app/api?username=ba2in9a&show_icons=true&theme=vue)
-
-![](http://github-readme-streak-stats.herokuapp.com?user=ba2in9a&theme=vue)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ba2in9a/ba2in9a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
