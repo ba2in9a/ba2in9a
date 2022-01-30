@@ -8,13 +8,12 @@
 
 [<img align="right" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api?username=ba2in9a&hide_border=true&show_icons=true&theme=vue">](#)
 
-[<img align="right" width="200" alt="🤿" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201292027004.png">](#)
+[<img align="right" width="260" alt="🤿" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201292027004.png">](#)
 
 <p align="center">
-<a href="https://chat.getloli.com/room/@ba2in9a?title=ba2in9a-chatroom"><img src="https://chat.getloli.com/room/@ba2in9a/svg?width=800&height=340&limit=20&theme=light&title=ba2in9a@github:%20~&fontSize=13"></a>
+  <a href="https://chat.getloli.com/room/@ba2in9a?title=ba2in9a-chatroom"><img src="https://chat.getloli.com/room/@ba2in9a/svg?width=800&height=340&limit=20&theme=light&title=ba2in9a@github:%20~&fontSize=13"></a>
 </p>
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/ba2in9a/count.svg" />
 </p>
