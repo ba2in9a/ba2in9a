@@ -2,9 +2,9 @@
 
 [<img align="right" width="395" alt="🤿" src="https://metrics.lecoq.io/ba2in9a?template=classic&base.header=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai&config.twemoji=true">](#)
 
-[<img align="right" width="395" alt="🤿" src="https://activity-graph.herokuapp.com/graph?username=ba2in9a&theme=github-light">](#)
-
 [<img align="right" width="395" alt="🤿" src="http://github-readme-streak-stats.herokuapp.com?user=ba2in9a&hide_border=true&theme=vue">](#)
+
+[<img align="right" width="395" alt="🤿" src="https://activity-graph.herokuapp.com/graph?username=ba2in9a&theme=github-light">](#)
 
 [<img align="right" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api?username=ba2in9a&hide_border=true&show_icons=true&theme=vue">](#)
 
