@@ -6,4 +6,4 @@
 
 [<img align="right" width="395" alt="🤿" src="https://github-readme-stats.vercel.app/api?username=ba2in9a&hide_border=true&show_icons=true&theme=vue">](#)
 
-[<img align="right" width="520" alt="🤿" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201292027004.png">](#)
+[<img align="right" width="490" alt="🤿" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201292027004.png">](#)
