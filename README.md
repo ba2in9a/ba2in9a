@@ -15,19 +15,19 @@
 [<img align="center" width="1000" alt="🤿" src="https://activity-graph.herokuapp.com/graph?username=ba2in9a&theme=github-light">](#)
 
 <details>
-    <summary><b><samp> 想点开看看吗<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302302671.gif"> </samp></b></summary>
+    <summary><b><samp> 想点开看看吗<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302316576.gif"> </samp></b></summary>
     
 
 <details align="center" title="🤿">
-    <summary> <b> <samp> 巨佬都会说两句<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302248766.gif"> </samp></b></summary>
+    <summary> <b> <samp> 巨佬都会说两句<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302315174.gif"> </samp></b></summary>
         <a href="https://chat.getloli.com/room/@ba2in9a?title=ba2in9a-chatroom"><img src="https://chat.getloli.com/room/@ba2in9a/svg?width=800&height=340&limit=20&theme=light&title=ba2in9a@github:%20~&fontSize=13"></a>
 </details>
 <details align="center" alt="🤿" >
-    <summary><b><samp> 看看我在听什么<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302243276.gif"> </samp></b></summary>
+    <summary><b><samp> 看看我在听什么<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302326435.gif"> </samp></b></summary>
         <img width="400" src="https://novatorem.vercel.app/api/spotify?background_color=d1d5da&border_color=ffffff">
 </details>
 <details align="center" title="🤿">
-    <summary> <b> <samp> 这里已有你的足迹<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302309074.gif"> </samp></b></summary>
+    <summary> <b> <samp> 这里已有你的足迹<img width="25" src="https://cdn.jsdelivr.net/gh/ba2in9a/PicGo/img/202201302323235.gif"> </samp></b></summary>
     <img src="https://profile-counter.glitch.me/ba2in9a/count.svg" /><br><br>
 </details>
     
