@@ -6,6 +6,8 @@
 
 [<img align="right" width="400" alt="🤿" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba2in9a&langs_count=8&layout=compact&hide_border=true&theme=vue">](#)
 
+[<img align="right" width="388" alt="🤿" src="https://novatorem.vercel.app/api/spotify?background_color=d1d5da&border_color=ffffff">](#)
+
 [<img align="right" width="400" alt="🤿" src="https://github-readme-stats.vercel.app/api/pin/?username=ba2in9a&repo=ba2in9a.github.io&hide_border=true&theme=vue">](#)
 
 [<img align="right" width="400" alt="🤿" src="https://github-readme-stats.vercel.app/api/wakatime?username=ba2in9a&hide_border=true&theme=vue">](#)
