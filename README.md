@@ -34,6 +34,6 @@
 </details>
 
 <p align="left" title="🤿">
-    <a target="_blank" href="https://ba2in9a.top/"><img src="https://img.shields.io/badge/blog-https%3A%2F%2Fba2in9a.top-green"> </a>
+    <a href="https://ba2in9a.top/" target="_blank"><img src="https://img.shields.io/badge/blog-https%3A%2F%2Fba2in9a.top-green"> </a>
 </p>        
 
